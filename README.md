@@ -9,13 +9,13 @@
 
 ![视频直播云平台 V3.0](images/%E8%A7%86%E9%A2%91%E7%9B%B4%E6%92%AD%E4%BA%91%E5%B9%B3%E5%8F%B0V3.0.png)
 
-### 多路推流软件（LiveStreamPublisher）
+### 多路推流软件（Live Stream Publisher）
 > 多路推流软件，支持视频流的多路分发，实现拉取rtmp、rtsp、srt、hls、hdl视频流后再通过rtmp、srt协议推流到其他流媒体服务器。实现对推流任务的管理、调度，支持服务器集群以容纳更多的推流任务。基于ffmpeg开发，拉取视频流后将视音频数据二次封装后推流，不进行重新编码，降低CPU使用率。
 （2022.1）
 
 ![多路推流软件](images/LiveStreamPublisher.png)
 
-### 视频流录制软件（LiveStreamRecorder）
+### 视频流录制软件（Live Stream Recorder）
 > 视频流录制软件，支持对rtmp、rstp、srt、hdl、hls等视频流的手动、自动录制保存。通过视频直播云平台可以实现视流频的录制任务管理、录制文件的预览和下载。
 （2021.2）
 
@@ -27,13 +27,13 @@
 
 - [论文《电视台非编机房计时管理系统的设计与应用》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i)
 
-### 字体管理软件
-> (2019.5)
+### 字体管理软件（Font Manager）
+> 一块字体管理软件。采用C/S架构，可以从自行部署的字体服务器下载安装字体到本机；同时可对本机已安装字体进行管理；适合局域网批量安装部署字体。(2019.5)
 
 ![Font Manager](images/FontManager.png)
 
 ### 网络工作站统一监控与管理系统
-> （2018.4）
+> 对局域网中的电脑进行集中管理，可监控客户端资源情况、查看桌面、远程执行命令、实现远程关机等。（2018.4）
 
 - [论文《非编网络工作站统一监控与管理系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=DSZM202002019&uniplatform=NZKPT&v=AiRotHsGSyPfgl8XzIrVR9KQtm0AWYNnm7-fw80GbU2fDRha28R4OW9z41eIWQLF)
 
