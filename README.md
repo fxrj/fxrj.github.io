@@ -1,7 +1,7 @@
 # iHonux
 
 ### 欢迎
- **Welcome to iHonux Pages!**  这里分享了近些年来作者进行的一些探索。如果感兴趣朋友可以留言或发电子邮件到 tonyangell@163.com 。
+ **Welcome to iHonux Pages!**  这里分享了一些近些年来作者进行的探索。如果有感兴趣朋友可以留言或发电子邮件到 tonyangell@163.com 。
 
 ### 视频直播云平台 V3.0
 > 视频直播云平台是一款流媒体视频直播运营管理软件，支持rtmp、rtsp、srt、webrtc、hls、hdl视频流的推流、拉流、权限认证、视频流录制、多路推流、流服务器管理和状态监控、日志管理。目前支持两款流行的流媒体服务器软件：nginx、SRS（Simple RTMP Server）。
