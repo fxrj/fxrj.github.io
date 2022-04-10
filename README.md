@@ -5,35 +5,28 @@
 Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
 无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-#### 软件架构
-软件架构说明
+#### 视频直播云平台 V3.0
+视频直播云平台是一款流媒体视频直播运营管理软件，支持rtmp、rtsp、srt、webrtc、hls、hdl视频流的推流、拉流、权限认证、视频流录制、多路推流、流服务器管理和状态监控、日志管理。目前支持两款流行的流媒体服务器软件：nginx、SRS（Simple RTMP Server）。通过视频直播云平台可以实现视流频的推流任务管理。
+（2022.2）
 
+#### 多路推流软件（LiveStreamPublisher）
+多路推流软件，支持视频流的多路分发，实现拉取rtmp、rtsp、srt、hls、hdl视频流后再通过rtmp、srt协议推流到其他流媒体服务器。实现对推流任务的管理、调度，支持服务器集群以容纳更多的推流任务。基于ffmpeg开发，拉取视频流后将视音频数据二次封装后推流，不进行重新编码，降低CPU使用率。
+（2022.1）
 
-#### 安装教程
+#### 视频流录制软件（LiveStreamRecorder）
+视频流录制软件，支持对rtmp、rstp、srt、hdl、hls等视频流的手动、自动录制保存。通过视频直播云平台可以实现视流频的录制任务管理、录制文件的预览和下载。
+（2021.2）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 机房计时管理系统
+机房计时控制管理软件采用C/S架构，客户端程序和计时统计服务使用Delphi 10.2开发，服务器端使用Apache 2.4.39 + MySQL 5.7.26数据库 + php 7.3.4，通信协议http，数据交换格式JSON。
+（2020.2）
 
-#### 使用说明
+#### 网络工作站统一监控与管理系统
+（2018.4）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 节目生产网络监控系统
+电视台节目生产网络监控软件可以实时收集节目生产网络的共享磁盘状态、服务器/工作站状态、服务运行状态等数据，发现异常情况时，通过大屏幕提醒、手机消息等方式通知技术人员。整套软件系统包括五个部分：服务监控客户端、监控分布客户端、信息汇聚服务、提醒服务、网监程序。
+（2017.9）
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 抽奖程序设计软件
+（2016.12）
