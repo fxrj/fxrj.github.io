@@ -27,6 +27,11 @@
 
 - [论文《电视台非编机房计时管理系统的设计与应用》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i)
 
+### 字体管理软件
+> (2019.5)
+
+![Font Manager](images/FontManager.png)
+
 ### 网络工作站统一监控与管理系统
 > （2018.4）
 
