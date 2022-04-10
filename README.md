@@ -28,12 +28,20 @@
 - [论文《电视台非编机房计时管理系统的设计与应用》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i)
 
 ### 字体管理软件（Font Manager）
-> 一块字体管理软件。采用C/S架构，可以从自行部署的字体服务器下载安装字体到本机；同时可对本机已安装字体进行管理；适合局域网批量安装部署字体。(2019.5)
+> 一块字体管理软件。采用C/S架构，可以从自行部署的字体服务器下载安装字体到本机；同时可对本机已安装字体进行管理；适合局域网批量安装部署字体。
+(2019.5)
 
 ![Font Manager](images/FontManager.png)
 
+### 定时删除程序（DelFileTimer）
+> 定时删除指定目录中的文件，可设定文件类型，可设定不删除的子目录，可设定超期天数。运行稳定，适合长时间运行。
+（2018.10）
+
+![定时删除程序](images/%E5%AE%9A%E6%97%B6%E5%88%A0%E9%99%A4%E7%A8%8B%E5%BA%8F.png)
+
 ### 网络工作站统一监控与管理系统
-> 对局域网中的电脑进行集中管理，可监控客户端资源情况、查看桌面、远程执行命令、实现远程关机等。（2018.4）
+> 对局域网中的电脑进行集中管理，可监控客户端资源情况、查看桌面、远程执行命令、实现远程关机等。
+（2018.4）
 
 - [论文《非编网络工作站统一监控与管理系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=DSZM202002019&uniplatform=NZKPT&v=AiRotHsGSyPfgl8XzIrVR9KQtm0AWYNnm7-fw80GbU2fDRha28R4OW9z41eIWQLF)
 
