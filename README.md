@@ -37,11 +37,15 @@
 
 - [论文《非编网络工作站统一监控与管理系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=DSZM202002019&uniplatform=NZKPT&v=AiRotHsGSyPfgl8XzIrVR9KQtm0AWYNnm7-fw80GbU2fDRha28R4OW9z41eIWQLF)
 
+![网络工作站统一监控与管理系统-统一管理程序主界面](images/%E7%BD%91%E7%BB%9C%E5%B7%A5%E4%BD%9C%E7%AB%99%E7%BB%9F%E4%B8%80%E7%9B%91%E6%8E%A7%E4%B8%8E%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BA%8F%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+
 ### 节目生产网络监控系统
 > 电视台节目生产网络监控软件可以实时收集节目生产网络的共享磁盘状态、服务器/工作站状态、服务运行状态等数据，发现异常情况时，通过大屏幕提醒、手机消息等方式通知技术人员。整套软件系统包括五个部分：服务监控客户端、监控分布客户端、信息汇聚服务、提醒服务、网监程序。
 （2017.9）
 
 - [论文《台内节目生产网络监控系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?filename=DSZM201901019&dbcode=CJFQ&dbname=CJFD2019&v=nObC302BMhD21XqCtCQ9Stk2bf5wgPBgvJ0kQdhJdu14j5CA2wSagVogRMLoMmDP)
+
+![节目生产网络监控系统-生产业务网的状态监控](images/%E8%8A%82%E7%9B%AE%E7%94%9F%E4%BA%A7%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F-%E7%94%9F%E4%BA%A7%E4%B8%9A%E5%8A%A1%E7%BD%91%E7%9A%84%E7%8A%B6%E6%80%81%E7%9B%91%E6%8E%A7.png)
 
 ### 电脑抽奖程序设计器
 > 一款设置灵活、操作简单、功能强大的专业电脑抽奖软件开发工具，经历上千次正式抽奖场合的考验，效果良好。适用于各类抽奖场合。
