@@ -25,12 +25,18 @@
 > 机房计时控制管理软件采用C/S架构，客户端程序和计时统计服务使用Delphi 10.2开发，服务器端使用Apache 2.4.39 + MySQL 5.7.26数据库 + php 7.3.4，通信协议http，数据交换格式JSON。
 （2020.2）
 
+- [论文《电视台非编机房计时管理系统的设计与应用》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i)
+
 ### 网络工作站统一监控与管理系统
 > （2018.4）
+
+- [论文《非编网络工作站统一监控与管理系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=DSZM202002019&uniplatform=NZKPT&v=AiRotHsGSyPfgl8XzIrVR9KQtm0AWYNnm7-fw80GbU2fDRha28R4OW9z41eIWQLF)
 
 ### 节目生产网络监控系统
 > 电视台节目生产网络监控软件可以实时收集节目生产网络的共享磁盘状态、服务器/工作站状态、服务运行状态等数据，发现异常情况时，通过大屏幕提醒、手机消息等方式通知技术人员。整套软件系统包括五个部分：服务监控客户端、监控分布客户端、信息汇聚服务、提醒服务、网监程序。
 （2017.9）
+
+- [论文《台内节目生产网络监控系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?filename=DSZM201901019&dbcode=CJFQ&dbname=CJFD2019&v=nObC302BMhD21XqCtCQ9Stk2bf5wgPBgvJ0kQdhJdu14j5CA2wSagVogRMLoMmDP)
 
 ### 电脑抽奖程序设计器
 > 一款设置灵活、操作简单、功能强大的专业电脑抽奖软件开发工具，经历上千次正式抽奖场合的考验，效果良好。适用于各类抽奖场合。
