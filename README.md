@@ -28,7 +28,7 @@
 - [论文《电视台非编机房计时管理系统的设计与应用》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i)
 
 ### 字体管理软件（Font Manager）
-> 一块字体管理软件。采用C/S架构，可以从自行部署的字体服务器下载安装字体到本机；同时可对本机已安装字体进行管理；适合局域网批量安装部署字体。
+> 一款字体管理软件。采用C/S架构，可以从自行部署的字体服务器下载安装字体到本机；同时可对本机已安装字体进行管理；适合局域网批量安装部署字体。
 (2019.5)
 
 ![Font Manager](images/FontManager.png)
@@ -48,7 +48,7 @@
 ![网络工作站统一监控与管理系统-统一管理程序主界面](images/%E7%BD%91%E7%BB%9C%E5%B7%A5%E4%BD%9C%E7%AB%99%E7%BB%9F%E4%B8%80%E7%9B%91%E6%8E%A7%E4%B8%8E%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BA%8F%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 ### 节目生产网络监控系统
-> 电视台节目生产网络监控软件可以实时收集节目生产网络的共享磁盘状态、服务器/工作站状态、服务运行状态等数据，发现异常情况时，通过大屏幕提醒、手机消息等方式通知技术人员。整套软件系统包括五个部分：服务监控客户端、监控分布客户端、信息汇聚服务、提醒服务、网监程序。
+> 节目生产网络监控软件可以实时收集节目生产网络的共享磁盘状态、服务器/工作站状态、服务运行状态等数据，发现异常情况时，通过大屏幕提醒、手机消息等方式通知技术人员。整套软件系统包括五个部分：服务监控客户端、监控分布客户端、信息汇聚服务、提醒服务、网监程序。
 （2017.9）
 
 - [论文《台内节目生产网络监控系统的设计与实现》](https://kns.cnki.net/kcms/detail/detail.aspx?filename=DSZM201901019&dbcode=CJFQ&dbname=CJFD2019&v=nObC302BMhD21XqCtCQ9Stk2bf5wgPBgvJ0kQdhJdu14j5CA2wSagVogRMLoMmDP)
