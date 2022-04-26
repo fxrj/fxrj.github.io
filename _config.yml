@@ -27,17 +27,17 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
+title: "iHonux's Projects"
+email: tonyangell@163.com
 description: ""
 github:
-  username: bit-ranger
+  username: fxrj
 swiftype:
-  searchId: iXZyPokVfxFaBTvi64Y6
+  searchId: 
 comment:
     repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    client_id: 4e4352ba610d47699a81
+    client_secret: aaf6c36524abf5c3dbfee47e4141621b9f3a43f1
 
 url: "https://fxrj.github.io"
 imgrepo: "https://fxrj.github.io/static/img"
