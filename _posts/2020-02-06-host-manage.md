@@ -10,6 +10,9 @@ categories: 网络管理
 
 机房计时控制管理软件采用C/S架构，客户端程序和计时统计服务使用Delphi 10.2开发，服务器端使用Apache 2.4.39 + MySQL 5.7.26数据库 + php 7.3.4，通信协议http，数据交换格式JSON。
 
+![机房计时管理系统] [HostManage]
+
 [论文《电视台非编机房计时管理系统的设计与应用》][论文地址]
 
+[HostManage]: {{"/%E6%9C%BA%E6%88%BF%E8%AE%A1%E6%97%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png" | prepend: site.imgrepo }}
 [论文地址]:https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DSZM202110015&uniplatform=NZKPT&v=nsPYJJIzNwanzm74g-0HCBpIHnohTHTIqfcgS4h1qJAqgndFxr56264ngJwxJh6i
