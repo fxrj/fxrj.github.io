@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 多媒体展示系统
+title: 电脑抽奖程序设计器
 tags: 电视抽奖 抽奖程序 节目互动 远程遥控
 categories: 抽奖程序
 ---
