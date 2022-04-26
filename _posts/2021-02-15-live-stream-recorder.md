@@ -10,6 +10,6 @@ categories: 流媒体
 
 视频流录制软件，支持对rtmp、rstp、srt、hdl、hls等视频流的手动、自动录制保存。即可以作为客户端软件运行在单机，也可以集成到视频直播云平台中实现对视流频的录制任务的远程管理、录制文件的预览和下载。
 
-![视频流录制软件][live-stream-recorder]
+![视频流录制软件][LiveStreamRecorder]
 
-[live-stream-recorder]: {{"/LiveStreamRecorder.png" | prepend: site.imgrepo }}
+[LiveStreamRecorder]: {{"/LiveStreamRecorder.png" | prepend: site.imgrepo }}
