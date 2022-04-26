@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 字体管理软件（Font Manager）
-tags: 机房管理 字体管理 Font
-categories: management
+tags: 机房管理 字体管理 Font C/S
+categories: 网络管理
 ---
 
 * TOC
@@ -12,4 +12,4 @@ categories: management
 
 ![视频直播云平台 V3.0] [font-manager]
 
-[font-manager]:  {{"/FontManager.png" | prepend: site.imgrepo }}
+[font-manager]: {{"/FontManager.png" | prepend: site.imgrepo }}

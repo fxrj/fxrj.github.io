@@ -2,7 +2,7 @@
 layout: post
 title: 定时删除程序（DelFileTimer）
 tags: 定时执行 删除文件 服务
-categories: service
+categories: 服务
 ---
 
 * TOC

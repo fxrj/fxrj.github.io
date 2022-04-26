@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 网络工作站统一监控与管理系统
-tags: 定时执行 删除文件 服务
-categories: service
+tags: 网络管理 主机监控 远程管理 C/S
+categories: 网络管理
 ---
 
 * TOC

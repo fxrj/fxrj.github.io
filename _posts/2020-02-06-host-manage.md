@@ -2,7 +2,7 @@
 layout: post
 title: 机房计时管理系统
 tags: 机房管理 上机计时 C/S
-categories: management
+categories: 网络管理
 ---
 
 * TOC
