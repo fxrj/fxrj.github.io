@@ -12,4 +12,9 @@ categories: 流媒体
 
 ![多路推流软件][LiveStreamPublisher]
 
+---
+
+[多路推流软件V1.0说明书][说明书]
+
 [LiveStreamPublisher]: {{"/LiveStreamPublisher.png" | prepend: site.imgrepo }}
+[说明书]:https://github.com/fxrj/fxrj.github.io/blob/master/docs/%E8%A7%86%E9%A2%91%E7%9B%B4%E6%92%AD%E4%BA%91%E5%B9%B3%E5%8F%B0V3.0%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf
