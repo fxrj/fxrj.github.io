@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 电脑抽奖程序设计器
-tags: 网络管理 资源监控 远程管理 C/S
-categories: 网络管理
+tags: 电视抽奖 抽奖程序 节目互动 远程遥控
+categories: 抽奖程序
 ---
 
 * TOC

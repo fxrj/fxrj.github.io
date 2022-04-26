@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 网络工作站统一监控与管理系统
-tags: 网络管理 资源监控 远程管理 C/S
+tags: 网络管理 资源监控 远程管理 C/S 分布式
 categories: 网络管理
 ---
 
