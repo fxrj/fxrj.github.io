@@ -12,6 +12,8 @@ categories: 网络管理
 
 ![网络工作站统一监控与管理系统-统一管理程序主界面][ManageCenter]
 
+---
+
 [论文《非编网络工作站统一监控与管理系统的设计与实现》][论文地址]
 
 [ManageCenter]: {{"/%E7%BD%91%E7%BB%9C%E5%B7%A5%E4%BD%9C%E7%AB%99%E7%BB%9F%E4%B8%80%E7%9B%91%E6%8E%A7%E4%B8%8E%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BA%8F%E4%B8%BB%E7%95%8C%E9%9D%A2.png" | prepend: site.imgrepo }}

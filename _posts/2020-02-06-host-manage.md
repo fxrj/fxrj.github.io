@@ -12,6 +12,8 @@ categories: 网络管理
 
 ![机房计时管理系统] [HostManage]
 
+---
+
 [论文《电视台非编机房计时管理系统的设计与应用》][论文地址]
 
 [HostManage]: {{"/%E6%9C%BA%E6%88%BF%E8%AE%A1%E6%97%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png" | prepend: site.imgrepo }}
