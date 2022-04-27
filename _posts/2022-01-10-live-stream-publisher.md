@@ -23,10 +23,14 @@ categories: 流媒体
 `软件主界面：`<br/>
 ![多路推流软件主界面][LiveStreamPublisher-Server]
 
+`远程控制 Web 页面：`<br/>
+![多路推流软件远程控制 Web 页面][LiveStreamPublisher-Remote]
+
 ---
 
 [多路推流软件V1.0说明书][说明书]
 
 [LiveStreamPublisher]: {{"/LiveStreamPublisher.png" | prepend: site.imgrepo }}
 [LiveStreamPublisher-Server]: {{"/LiveStreamPublisher-Server.png" | prepend: site.imgrepo }}
+[LiveStreamPublisher-Remote]: {{"/LiveStreamPublisher-Remote.png" | prepend: site.imgrepo }}
 [说明书]:https://github.com/fxrj/fxrj.github.io/blob/master/docs/%E5%A4%9A%E8%B7%AF%E6%8E%A8%E6%B5%81%E8%BD%AF%E4%BB%B6V1.0%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf

@@ -15,5 +15,9 @@ categories: 流媒体
 `软件主界面：`<br/>
 ![视频流录制软件主界面][LiveStreamRecorder-Server]
 
+`远程控制 Web 页面：`<br/>
+![视频流录制软件远程控制 Web 页面][LiveStreamRecorder-Remote]
+
 [LiveStreamRecorder]: {{"/LiveStreamRecorder.png" | prepend: site.imgrepo }}
 [LiveStreamRecorder-Server]: {{"/LiveStreamRecorder-Server.png" | prepend: site.imgrepo }}
+[LiveStreamRecorder-Remote]: {{"/LiveStreamRecorder-Remote.png" | prepend: site.imgrepo }}
