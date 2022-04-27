@@ -12,8 +12,8 @@ categories: 流媒体
 
 ![视频流录制软件][LiveStreamRecorder]
 
-`客户端主界面：`<br/>
-![视频流录制软件客户端][LiveStreamRecorder-Server]
+`软件主界面：`<br/>
+![视频流录制软件主界面][LiveStreamRecorder-Server]
 
 [LiveStreamRecorder]: {{"/LiveStreamRecorder.png" | prepend: site.imgrepo }}
 [LiveStreamRecorder-Server]: {{"/LiveStreamRecorder-Server.png" | prepend: site.imgrepo }}
