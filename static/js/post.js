@@ -30,7 +30,7 @@ function share(){
 
 function renderComment() {
     var gittalk = new Gitalk({
-        id: window.location.pathname,
+        id: md5(window.location.pathname),
         clientID: '{{site.comment.client_id}}',
         clientSecret: '{{site.comment.client_secret}}',
         owner: '{{site.github.username}}',
