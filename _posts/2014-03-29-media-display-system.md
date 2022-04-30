@@ -12,6 +12,8 @@ categories: 多媒体
 
 ![多媒体展示系统][MediaDisplaySys]
 
+<br/>
+
 `多媒体展示系统运行图：`<br/>
 ![多媒体展示系统-运行图][MediaDisplaySys-2]
 
