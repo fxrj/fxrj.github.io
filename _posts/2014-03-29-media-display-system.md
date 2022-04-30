@@ -12,4 +12,8 @@ categories: 多媒体
 
 ![多媒体展示系统][MediaDisplaySys]
 
-[MediaDisplaySys]: {{"/%E9%A3%9E%E7%BF%94%E5%A4%9A%E5%AA%92%E4%BD%93%E5%B1%95%E7%A4%BA%E7%B3%BB%E7%BB%9F.png" | prepend: site.imgrepo }}
+`多媒体展示系统运行图：`<br/>
+![多媒体展示系统-运行图][MediaDisplaySys-2]
+
+[MediaDisplaySys]: {{"/飞翔多媒体展示系统.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-2]: {{"/多媒体展示系统-运行图.png" | prepend: site.imgrepo }}
