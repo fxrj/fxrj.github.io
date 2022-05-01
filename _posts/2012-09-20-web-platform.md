@@ -10,8 +10,11 @@ categories: 办公
 
 ## 祥云平台
 
-`祥云平台首页：`<br/>
+`祥云平台登录页：`<br/>
 ![祥云 1.0 beta 20130105]({{ site.imgrepo }}/祥云1.0beta20130105.png)
+
+`祥云平台首页：`<br/>
+![祥云平台首页]({{ site.imgrepo }}/祥云-通讯录1.png)
 
 `祥云平台 Web 通讯录：`<br/>
 ![祥云 Web 通讯录]({{ site.imgrepo }}/祥云-通讯录2.png)
