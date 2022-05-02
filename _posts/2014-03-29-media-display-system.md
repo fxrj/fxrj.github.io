@@ -39,6 +39,18 @@ categories: 多媒体
 
 ![多媒体展示系统 播放控制服务][MediaDisplaySys-4]
 
+`媒体项管理：`
+
+![媒体项管理][MediaDisplaySys-4-1]
+
+`播放列表管理：`
+
+![播放列表管理][MediaDisplaySys-4-1]
+
+`编辑播放列表：`
+
+![编辑播放列表][MediaDisplaySys-4-1]
+
 ### 2.3 播放同步服务
 
 对各个播放客户端进行媒体项同步的后台服务。可以将播放的媒体项从服务器同步到客户端本地磁盘，降低对网络带宽的占用。
@@ -65,5 +77,8 @@ categories: 多媒体
 [MediaDisplaySys-2]: {{"/飞翔多媒体展示系统-运行图.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-3]: {{"/飞翔多媒体展示系统-PlayConfig_Main.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-4]: {{"/飞翔多媒体展示系统-PlayCtrlSrv_Main.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-4-1]: {{"/飞翔多媒体展示系统-PlayConfig_MediaManager.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-4-2]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-4-3]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-5]: {{"/飞翔多媒体展示系统-PlaySyncSrv_Main.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-6]: {{"/飞翔多媒体展示系统-RPi_Client.jpg" | prepend: site.imgrepo }}
