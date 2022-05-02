@@ -31,6 +31,18 @@ categories: 多媒体
 `播放配置程序:`
 ![多媒体展示系统 播放配置程序][MediaDisplaySys-3]
 
+`媒体项管理：`
+
+![媒体项管理][MediaDisplaySys-3-1]
+
+`播放列表管理：`
+
+![播放列表管理][MediaDisplaySys-3-1]
+
+`编辑播放列表：`
+
+![编辑播放列表][MediaDisplaySys-3-1]
+
 ### 2.2 播放控制服务
 
 对各个播放客户端进行播放控制的后台服务。
@@ -38,18 +50,6 @@ categories: 多媒体
 `播放控制服务：`
 
 ![多媒体展示系统 播放控制服务][MediaDisplaySys-4]
-
-`媒体项管理：`
-
-![媒体项管理][MediaDisplaySys-4-1]
-
-`播放列表管理：`
-
-![播放列表管理][MediaDisplaySys-4-1]
-
-`编辑播放列表：`
-
-![编辑播放列表][MediaDisplaySys-4-1]
 
 ### 2.3 播放同步服务
 
@@ -76,9 +76,9 @@ categories: 多媒体
 [MediaDisplaySys-1]: {{"/飞翔多媒体展示系统-SystemArchitecture.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-2]: {{"/飞翔多媒体展示系统-运行图.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-3]: {{"/飞翔多媒体展示系统-PlayConfig_Main.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-3-1]: {{"/飞翔多媒体展示系统-PlayConfig_MediaManager.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-3-2]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png" | prepend: site.imgrepo }}
+[MediaDisplaySys-3-3]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-4]: {{"/飞翔多媒体展示系统-PlayCtrlSrv_Main.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-4-1]: {{"/飞翔多媒体展示系统-PlayConfig_MediaManager.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-4-2]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-4-3]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-5]: {{"/飞翔多媒体展示系统-PlaySyncSrv_Main.png" | prepend: site.imgrepo }}
 [MediaDisplaySys-6]: {{"/飞翔多媒体展示系统-RPi_Client.jpg" | prepend: site.imgrepo }}
