@@ -51,7 +51,7 @@ categories: 抽奖程序
 
 [论文《电视抽奖程序设计软件的开发与应用》][论文地址]
 
-下载：[Windows 32位版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=1) || [Windows 64位版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=2) || [Mac OS X版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=3)
+下载：[Windows 32位版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=1) \| [Windows 64位版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=2) \| [Mac OS X版](http://127.0.0.1:8088/wp-content/plugins/download-monitor/download.php?id=3)
 
 [DrawDesigner]: {{"/%E9%A3%9E%E7%BF%94%E7%94%B5%E8%84%91%E6%8A%BD%E5%A5%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%99%A8%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B.png" | prepend: site.imgrepo }}
 [飞翔电脑抽奖程序设计器之抽奖界面设计]: /static/img/%E9%A3%9E%E7%BF%94%E7%94%B5%E8%84%91%E6%8A%BD%E5%A5%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%99%A8%E4%B9%8B%E6%8A%BD%E5%A5%96%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1.png
