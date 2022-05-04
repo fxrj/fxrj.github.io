@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 飞翔通讯录更新内容
 tags: 通讯录 联系人 VCF 名片 手机号
 categories: 办公
