@@ -18,7 +18,7 @@ scripts: [post.js]
 
 Live Stream Recorder 使用Delphi 10.2.3开发。可以自动录制或手动录制rtmp、m3u8等视频流。基于ffmpeg开发，直接将视频流中的视音频数据封装成mp4、mkv、ts等文件，不进行重新编码，降低CPU使用率。
 
-具有Web远程管理功能，需要注册为增强版。Web远程管理功能采用4.1.2部分介绍的代理服务（Apache+PHP）实现。
+具有Web远程管理功能，需要注册为增强版。Web远程管理功能采用1.2部分介绍的代理服务（Apache+PHP）实现。
 
 建议安装到Windows Server操作系统上。把软件包解压到D:\LiveStreamRecorder（举例），双击“LiveStreamRecorder.exe”启动程序。
 
