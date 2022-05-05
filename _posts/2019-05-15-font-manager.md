@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 字体管理软件（Font Manager）
+author: 贺斌
 tags: 机房管理 字体管理 Font C/S
 categories: 网络管理
 ---

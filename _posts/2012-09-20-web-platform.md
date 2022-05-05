@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 【早期】祥云平台
+author: 贺斌
 tags: 云平台 通讯录 B/S C/S 多平台
 categories: 办公
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 新闻热线 APP
+author: 贺斌
 tags: 新闻 热线 线索 APP
 categories: 办公
 ---

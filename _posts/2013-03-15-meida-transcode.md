@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 媒体文件转码上传系统
+author: 贺斌
 tags: 媒体文件 转码 上传 ffmpeg mencoder mplayer C/S FTP
 categories: 多媒体
 ---

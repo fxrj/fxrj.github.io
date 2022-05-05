@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 定时删除程序（DelFileTimer）
+author: 贺斌
 tags: 定时执行 删除文件 服务
 categories: 服务
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 视频流录制软件（Live Stream Recorder）
+author: 贺斌
 tags: 录制 拉流 直播 流媒体 SRT RTMP ffmpeg
 categories: 流媒体
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 多媒体展示系统
+author: 贺斌
 tags: 多媒体 信息发布 播控 C/S 分布式
 categories: 多媒体
 ---

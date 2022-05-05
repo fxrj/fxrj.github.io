@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 人力资源信息管理系统
+author: 贺斌
 tags: 人力资源 信息管理 B/S
 categories: 办公
 ---
