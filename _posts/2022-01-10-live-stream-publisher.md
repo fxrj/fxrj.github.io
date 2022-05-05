@@ -29,7 +29,7 @@ categories: 流媒体
 
 ---
 
-[多路推流软件V1.0说明书](/docs/live-stream-publisher-help)
+[多路推流软件说明书](/docs/live-stream-publisher-help)
 
 
 [LiveStreamPublisher]: {{"/LiveStreamPublisher.png" | prepend: site.imgrepo }}
