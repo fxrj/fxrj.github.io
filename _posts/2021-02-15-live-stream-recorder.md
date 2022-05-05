@@ -18,6 +18,11 @@ categories: 流媒体
 `远程控制 Web 页面：`<br/>
 ![视频流录制软件远程控制 Web 页面][LiveStreamRecorder-Remote]
 
+---
+
+[视频流录制软件说明书](/docs/live-stream-recorder-help)
+
+
 [LiveStreamRecorder]: {{"/LiveStreamRecorder.png" | prepend: site.imgrepo }}
 [LiveStreamRecorder-Server]: {{"/LiveStreamRecorder-Server.png" | prepend: site.imgrepo }}
 [LiveStreamRecorder-Remote]: {{"/LiveStreamRecorder-Remote.png" | prepend: site.imgrepo }}
