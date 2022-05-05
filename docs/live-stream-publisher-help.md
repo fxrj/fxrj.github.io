@@ -24,11 +24,15 @@ Live Stream Publisher多路推流软件是一款运行在Windows操作系统上�
 支持绿色安装，直接解压压缩包，运行LiveStreamPublisher.exe。软件需要注册为增强版，开启内置http api接口，默认端口8082。
 
 ### 1.2.2	Web 服务
+
 通过 phpstudy pro 提供的Apache、PHP功能作为Web服务器提供远程管理功能，同时作为代理服务器与Live Stream Publisher的api接口进行数据交互。建议http端口：8080。
+
 管理地址：http://[服务器主机IP地址]:8080/LiveStreamPublisher/。
+
 管理员：admin，初始密码：admin。
 
 ### 1.2.3	防火墙
+
 Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端口）。
 
 
@@ -80,6 +84,7 @@ Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端
 ![用户管理](/static/img/live-stream-publisher/option.png)
  
 ## 2.5	日志
+
 通过日志可以了解当前任务运行的详细情况。日志包括3类：主日志、推流任务日志、http api 日志。这些日志位于程序安装目录下的Log目录内。
 
 ### 2.5.1	主日志
