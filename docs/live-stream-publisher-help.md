@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 多路推流软件（Live Stream Publisher）说明书
+date: 2022-03-01
+author: 贺斌
 categories: 流媒体
 styles: [post.css]
 scripts: [post.js]
