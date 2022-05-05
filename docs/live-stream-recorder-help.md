@@ -24,6 +24,8 @@ Live Stream Recorder 使用Delphi 10.2.3开发。可以自动录制或手动录�
 
 在菜单“工具”-->“设置”下，可进行如下设置。
 
+![设置](/static/img/live-stream-recorder/option.png)
+
 - `录制视频保存路径`：有效的本地磁盘路径，分区可用空间充足。
 - `保存类型`：默认是mp4，该格式在录制中如果程序出现意外，会导致录制的视频文件损坏。建议使用ts格式。
 - `HTTP端口`：默认8081，可根据实际清空修改。 
@@ -42,8 +44,12 @@ IP地址：202.112.18.8  （举例）
 HTTP端口：8082        （举例）
 ```
 参考下图，修改网站目录下LiveStream\js\record_tasks.js文件中的record_task_manage_url的值为Live Stream Recorder运行主机的实际IP地址和端口。
+
+![修改record_tasks.js文件](/static/img/live-stream-recorder/record_tasks.js.png)
  
 需要新建网站虚拟目录 /Clips（对应于F:\clips目录），用于远程http下载或预览素材。通过修改Apache配置文件D:\phpstudy_pro\Extensions\Apache2.4.39\conf\httpd.conf 实现，如下图，实际中可以根据需要参照修改。
+
+![修改httpd.conf文件](/static/img/live-stream-recorder/httpd.conf.png)
  
 
 ## 1.3	防火墙
@@ -64,22 +70,32 @@ Web远程管理功能需要在Windows防火墙开放8082端口（Apache HTTP 端
 - `保存路径`：服务器上的本地磁盘路径。默认为设置中预置的路径。
 - `手动录制`：勾选后，只能手动开始或停止录制；不勾选，可以定时自动开始录制，到时间自动停止录制。
 - `重复`：不勾选“手动录制”，可以设置每周的哪些天的什么时间段开始录制和结束。不勾选周日——周六，可以设定一个具体的时间段开始录制和结束。
+
+![新建录制任务](/static/img/live-stream-recorder/add_task.png)
  
 ### 2.1.2	用户管理
 
 设置Web远程管理的登录用户及其权限。增强版专用。注意：服务器端运行的Live Stream Recorder不需要登录，直接以admin运行。
+
+![用户管理](/static/img/live-stream-recorder/user-manage.png)
  
 ### 2.1.3	HTTP Server
 
 提供远程管理API接口，供Apache + PHP调用。增强版专用。
+
+![HTTP Server](/static/img/live-stream-recorder/http-server.png)
  
 ## 2.2	远程管理的使用
 
 管理地址：http://202.112.18.8:8082/LiveStream/ （举例）。增强版专用。管理员：admin，初始密码：admin。
 
 主界面及功能和服务器端的Live Stream Recorder基本一样。根据登录用户的权限的不同，用户可用的功能亦有所不同。
+
+![远程管理](/static/img/live-stream-recorder/main-web.png)
   
 点击“下载文件”按钮，可以浏览服务器已经录制完成的视频文件，可以在线预览也可以下载到本地电脑上。注意：在线预览需要浏览器支持Flash功能。
+
+![文件浏览下载](/static/img/live-stream-recorder/file-download.png)
  
 ## 2.3	日志
 Live Stream Recorder有比较完备的运行日志，分为主日志、录制日志、HTTP日志。主日志记录程序开始录制、停止录制等主要信息。录制日志记录ffmpeg运行的输出信息。HTTP日志记录所有接口的调用信息。这些日志位于程序安装目录下的Log目录内。
