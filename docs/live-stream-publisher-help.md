@@ -5,7 +5,7 @@ date: 2022-03-01
 author: 贺斌
 tags: 推流 直播 流媒体 SRT RTMP ffmpeg
 categories: 流媒体
-styles: [post.css]
+styles: [highlight.css, post.css]
 scripts: [post.js]
 ---
 
