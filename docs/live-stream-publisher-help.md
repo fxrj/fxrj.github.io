@@ -50,26 +50,26 @@ Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端
 - 手动推流：勾选后，只能手动开始或停止推流；不勾选，可以使定时自动推流。
 - 重复：不勾选“手动推流”，可以设置每周的哪些天的什么时间段开始推流和结束。不勾选周日——周六，可以设定一个具体的时间段开始推流和结束。
  
-![单机版新建推流任务]({{ site.imgrepo }}/add-task-1.png)
+![单机版新建推流任务]({{ site.imgrepo }}/live-stream-publisher/add-task-1.png)
  
-![网络版修改推流任务]({{ site.imgrepo }}/add-task-2.png)
+![网络版修改推流任务]({{ site.imgrepo }}/live-stream-publisher/add-task-2.png)
 
 ## 2.2	开始/停止推流
 
 在单机版主界面中，选中一条推流任务。通过【推流】菜单下的【开始推流/停止】命令启动或停止推流任务，或通过右键菜单实现。
  
-![单机版主界面]({{ site.imgrepo }}/main1.png)
+![单机版主界面]({{ site.imgrepo }}/live-stream-publisher/main1.png)
 
 在Web页面中，选中一条推流任务。点击任务栏上的【开始推流/停止】按钮启动或停止推流任务。
  
-![网络版主页面]({{ site.imgrepo }}/main2.png)
+![网络版主页面]({{ site.imgrepo }}/live-stream-publisher/main2.png)
 
 ## 2.3	用户管理
 
 设置网络版远程登录时的用户及其权限。通过【工具】菜单下【用户管理】命令打开。
 注意：服务器端运行的Live Stream Recorder不需要登录，直接以admin运行。
 
-![用户管理]({{ site.imgrepo }}/user-manage.png)
+![用户管理]({{ site.imgrepo }}/live-stream-publisher/user-manage.png)
  
 可以为每个用户设置最大推流任务数。最大任务数为0时，表示不做限制。
 
@@ -81,7 +81,7 @@ Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端
 - 全局最大任务数：Live Stream Publisher 所能添加的推流任务上限。全部账号的总任务数不能超过该数值。每个账号的最大任务数受此数值限制。
 - http 服务端口：Live Stream Publisher 内置http api服务的端口。
 
-![用户管理]({{ site.imgrepo }}/option.png)
+![用户管理]({{ site.imgrepo }}/live-stream-publisher/option.png)
  
 ## 2.5	日志
 
@@ -97,7 +97,7 @@ Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端
 
 对于推流进程异常出错，导致任务不能正常结束的情况，推流日志窗口提供了“结束进程”功能。
 
-![推流任务日志]({{ site.imgrepo }}/log.png)
+![推流任务日志]({{ site.imgrepo }}/live-stream-publisher/log.png)
  
 ### 2.5.3	http api 日志
 
@@ -107,13 +107,13 @@ Web远程管理功能需要在Windows防火墙开放8080端口（Apache http 端
 
 主界面中，选中一条正在推流的任务。通过【推流】菜单下的【推流详情】命令打开推流详情窗口，或通过右键菜单打开。
 
-![推流任务日志]({{ site.imgrepo }}/publish-detail.png)
+![推流任务日志]({{ site.imgrepo }}/live-stream-publisher/publish-detail.png)
 
 ## 2.7	信号预览
 
 在单机版主界面中，选中一条推流任务。通过【推流】菜单下的【预览】命令可以播放源地址视频流的内容，或通过右键菜单实现。
  
-![单机版信号预览窗口]({{ site.imgrepo }}/player1.png)
+![单机版信号预览窗口]({{ site.imgrepo }}/live-stream-publisher/player1.png)
 
 在Web页面中，选中一条推流任务。点击任务栏上的【信号预览】按钮可以播放源地址视频流的内容。
  
