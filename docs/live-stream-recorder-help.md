@@ -23,11 +23,11 @@ Live Stream Recorder 使用Delphi 10.2.3开发。可以自动录制或手动录�
 建议安装到Windows Server操作系统上。把软件包解压到D:\LiveStreamRecorder（举例），双击“LiveStreamRecorder.exe”启动程序。
 
 在菜单“工具”-->“设置”下，可进行如下设置。
- 
->- 录制视频保存路径：有效的本地磁盘路径，分区可用空间充足。
->- 保存类型：默认是mp4，该格式在录制中如果程序出现意外，会导致录制的视频文件损坏。建议使用ts格式。
->- HTTP端口：默认8081，可根据实际清空修改。 
-
+```
+- 录制视频保存路径：有效的本地磁盘路径，分区可用空间充足。
+- 保存类型：默认是mp4，该格式在录制中如果程序出现意外，会导致录制的视频文件损坏。建议使用ts格式。
+- HTTP端口：默认8081，可根据实际清空修改。 
+```
 ## 1.2	代理服务（Apache + PHP）
 
 如果不需要使用Web远程管理功能，可跳过阅读本小节。
@@ -37,10 +37,10 @@ phpStudy Pro是一个PHP调试环境的程序集成包，软件一键安装，�
 通过 phpstudy pro 提供的Apache、PHP功能作为Web服务器提供远程管理功能，同时作为代理服务器与Live Stream Recorder的API接口进行数据交互。
 
 网站目录：D:\phpstudy_pro\WWW（举例），把代理服务软件包解压到D:\software\phpstudy_pro\WWW\LiveStream中。
-
-> IP地址：202.112.18.8  （举例）
-> HTTP端口：8082        （举例）
-
+```
+IP地址：202.112.18.8  （举例）
+HTTP端口：8082        （举例）
+```
 参考下图，修改网站目录下LiveStream\js\record_tasks.js文件中的record_task_manage_url的值为Live Stream Recorder运行主机的实际IP地址和端口。
  
 需要新建网站虚拟目录 /Clips（对应于F:\clips目录），用于远程http下载或预览素材。通过修改Apache配置文件D:\phpstudy_pro\Extensions\Apache2.4.39\conf\httpd.conf 实现，如下图，实际中可以根据需要参照修改。
