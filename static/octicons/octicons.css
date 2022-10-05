@@ -234,3 +234,4 @@
 .octicon-remove-close:before,
 .octicon-x:before { content: '\f081'} /*  */
 .octicon-zap:before { content: '\26A1'} /* ⚡ */
+.octicon-cpu { background: url("icons/cpu-16.svg"); }
