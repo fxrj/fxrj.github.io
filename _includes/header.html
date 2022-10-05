@@ -15,16 +15,17 @@
                         {% if page.url == "/index.html" %}
                         <li class="active">{% else %}
                         <li>{% endif %}
-                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;&nbsp;Blog</a>
+                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;Blog</a>
                         </li>
                         {% for p in site.pages %}{% if p.isNavItem %}
                         {% if p.url == page.url %}
                         <li class="active">{% else %}
                         <li>{% endif %}
-                            <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" class="word-keep"><span class="octicon {{ p.icon }}"></span>&nbsp;&nbsp;{{ p.title }}</a>
+                            <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" class="word-keep"><span class="octicon {{ p.icon }}"></span>&nbsp;{{ p.title }}</a>
                         </li>
                         {% endif %}
                         {% endfor %}
+                        <li><a href="https://www.tapechat.net/uu/GJ14DI/CQS1PYR9" target="_blank"><span class="octicon octicon-comment">&nbsp;Feedback</span></a></li>
                         <li><a href="#stq=" class="search-button"><span class="octicon octicon-search"></span></a></li>
                     </ul>
                 </div>
