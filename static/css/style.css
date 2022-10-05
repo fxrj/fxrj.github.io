@@ -207,7 +207,8 @@ a:active {text-decoration: none}	/* 选定的链接 */
 
 @media (min-width: 1200px){
     .col-lg-offset-1_5 {
-        margin-left: 12.5%;
+        margin-left: 2.5%;  /* 原为12.5% */
+        width: 95%;         /* 后来添加的 */
     }
 }
 
