@@ -42,7 +42,7 @@ isNavItem: true
 #fs-frm label,
 #fs-frm legend,
 #fs-frm ::placeholder {
-  font-size: 1rem;
+  font-size: 1.6rem;
   margin-bottom: .5rem;
   padding-top: .2rem;
   display: flex;
