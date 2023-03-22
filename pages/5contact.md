@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 反馈
 permalink: /contact/
 icon: octicon-comment
 isNavItem: true

@@ -15,7 +15,7 @@
                         {% if page.url == "/index.html" %}
                         <li class="active">{% else %}
                         <li>{% endif %}
-                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;Blog</a>
+                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;博客</a>
                         </li>
                         {% for p in site.pages %}{% if p.isNavItem %}
                         {% if p.url == page.url %}
@@ -25,7 +25,7 @@
                         </li>
                         {% endif %}
                         {% endfor %}
-                        <li><a href="https://cpu.ihonux.com" target="_blank"><span class="octicon octicon-link-external"></span>&nbsp;CPU Museum</a></li>
+                        <li><a href="https://cpu.ihonux.com" target="_blank"><span class="octicon octicon-link-external"></span>&nbsp;CPU博物馆</a></li>
                         <!--<li><a href="#stq=" class="search-button"><span class="octicon octicon-search"></span></a></li>-->
                     </ul>
                 </div>
