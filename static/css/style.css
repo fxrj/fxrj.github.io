@@ -57,6 +57,7 @@ layout: null
 
 .navbar-nav>li>a{
     line-height: 1.42857143;
+    padding: 15px 10px;         /* Honux 添加于20230322*/
 }
 
 .footnote-tiffany a,
