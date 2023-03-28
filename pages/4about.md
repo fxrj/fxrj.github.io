@@ -6,7 +6,7 @@ icon: octicon-star
 isNavItem: true
 ---
 
-![关于]({{ site.imgrepo }}/iHonuxProjectsAbout.jpg)
+<img style="width:100%; max-width:533px;" src="{{ site.imgrepo }}/iHonuxProjectsAbout.jpg" alt="关于 iHonux's Projects">
 
 “iHonux's Projects”是一个展示iHonux工作以来完成的一些主要软件作品的个人网站。在这里，您可以看到iHonux用C++、C#、Delphi、PHP、Python、JavaScript等编程语言开发的各种流媒体、视音频、系统监控、信息管理等方面的软件项目，感受他对技术和创新的热情和专业。这些作品也反映了他在软件工程领域的丰富经验和深厚功底。
 
