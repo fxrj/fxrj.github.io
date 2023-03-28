@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
-icon: octicon-heart
+icon: octicon-star
 isNavItem: true
 ---
 
