@@ -18,7 +18,7 @@ isNavItem: true
 
 <img src="{{ site.imgrepo }}/ihonux-com.png" alt="iHonux 网站群">
 
-iHonux.com 网站群，目前是五位一体，包括：[iHonux's Projects](https://www.ihonux.com)、[iHonux's Time Machine](https://past.ihonux.com/)、 [电脑博物馆](https://dnbwg.ihonux.com)、[CPU博物馆](https://cpu.ihonux.com)和iHonux's ****** Homepage（暂不开放）。
+iHonux.com 网站群，目前是五位一体，包括：[iHonux's Projects](https://www.ihonux.com)、[iHonux's Time Machine](https://past.ihonux.com/)、 [电脑博物馆](https://dnbwg.ihonux.com)、[CPU博物馆](https://cpu.ihonux.com)和[iHonux's ****** Homepage](#)（暂不开放）。
 
 ## 关于 飞翔软件（Volisoft）
 
