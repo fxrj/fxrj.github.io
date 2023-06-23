@@ -14,7 +14,7 @@ isNavItem: true
 
 ## 关于 iHonux.com
 
-<img src="{{ site.imgrepo }}/ihonux-com.png" alt="iHonux 网站群">
+<img src="{{ site.imgrepo }}/ihonux-com.png" alt="iHonux 网站群" style="max-width: 100%;">
 
 iHonux.com 网站群，目前是五位一体，包括：[iHonux's Projects](https://www.ihonux.com)、[iHonux's Time Machine](https://past.ihonux.com/)、 [电脑博物馆](https://dnbwg.ihonux.com)、[CPU博物馆](https://cpu.ihonux.com)和[iHonux's ****** Homepage](#)（暂不开放）。
 
