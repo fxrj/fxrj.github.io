@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 permalink: /about/
-icon: octicon-star
+icon: octicon-info
 isNavItem: true
 ---
 
@@ -16,7 +16,7 @@ isNavItem: true
 
 <img src="{{ site.imgrepo }}/ihonux-com.png" alt="iHonux 网站群" style="max-width: 100%;">
 
-iHonux.com 网站群，目前是五位一体，包括：iHonux's Projects [主站](https://www.ihonux.com) | [镜像](https://www.volisoft.top) 、[iHonux's Time Machine](https://past.ihonux.com/) 、 电脑博物馆 [主站](https://dnbwg.ihonux.com) | [镜像](https://cm.ihonux.com) 、CPU博物馆 [主站](https://cpu.ihonux.com) | [镜像](https://chip.ihonux.com) 和 [iHonux's ******* Homepage](#)（暂不开放）。
+iHonux.com 网站群，目前是五位一体，包括：iHonux's Projects [[主站]](https://www.ihonux.com)  [[镜像]](https://www.volisoft.top) 、[iHonux's Time Machine](https://past.ihonux.com/) 、 电脑博物馆 [[主站]](https://dnbwg.ihonux.com) [[镜像]](https://cm.ihonux.com) 、CPU博物馆 [[主站]](https://cpu.ihonux.com)  [[镜像]](https://chip.ihonux.com) 和 [iHonux's ******* Homepage](#)（暂不开放）。
 
 ## 关于 飞翔软件（Volisoft）
 
