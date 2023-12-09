@@ -11,7 +11,7 @@ categories: VR
 
 “飞翔软件VR虚拟现实展厅”采用 Vite + Threejs 技术，以虚拟现实展厅的形式，展现了飞翔软件从 2001 年至今的发展历程，图文并茂展示了开发的各类软件系统。
 
-<a href="http://museum.ihonux.com:97/vr/volisoft/" target="_blank">开始参观</a>
+<a href="http://museum.ihonux.com:97/vr/volisoft/" target="_blank"> >>> 开始参观 >>> </a>
 
 
 `效果图1：`<br/>
