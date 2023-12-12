@@ -11,20 +11,29 @@
 <div class="col-lg-offset-1_5">
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="static/img/swiper/t1.jpg"></div>
-            <div class="swiper-slide"><img src="static/img/swiper/t2.jpg"></div>
-            <div class="swiper-slide"><img src="static/img/swiper/t3.jpg"></div>
+            <div class="swiper-slide"><a href="vr/vr-hall-volisoft/"><img src="static/img/swiper/t1.jpg"></a></div>
+            <div class="swiper-slide"><a href="流媒体/x-cloud-30/"><img src="static/img/swiper/t2.jpg"></a></div>
+            <div class="swiper-slide"><a href="https://dnbwg.ihonux.com"><img src="static/img/swiper/t3.jpg"></a></div>
         </div>
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
     </div>
 </div>
 <script type="text/javascript" src="/static/js/swiper-bundle.min.js"></script>
 <script type="text/javascript">
 	var swiper = new Swiper(".mySwiper", {
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
+        autoplay: {
+            delay: 5000,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
     });
 </script>
