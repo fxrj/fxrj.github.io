@@ -1,10 +1,10 @@
 .simple-swiper-container {
 	/*width: 1000px;*/
 	/*border-radius: 5px;*/
-	/*height: 300px;*/
+	height: 500px;
 	overflow: hidden;
 	position: relative;
-	margin: 0 0 20px 0;
+	margin: 20px 0 0 0;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-khtml-user-select: none;
