@@ -1,0 +1,44 @@
+<!--- 幻灯片展示（用手机浏览时呈现） --->
+<script type="text/javascript">
+	function addStyle(file){
+		$('head').append('<link href=' + file + ' rel="stylesheet" type="text/css">')
+	}
+	addStyle("/static/css/simple_style.css");
+</script>
+<script type="text/javascript" src="/static/js/simple_swiper.js"></script>
+<div id="swiper-demo" class="simple-swiper-container">
+	<a id="sprev" class="btn btn-prev"></a>
+	<a id="snext" class="btn btn-next"></a>
+	<div class="pagination"></div>
+</div>
+<script type="text/javascript">
+	new SimSwiper("#swiper-demo", {
+        autoplay: 4500,
+        duration: 300,
+        easing: 'ease',
+        button: {
+            prev: "#sprev",
+            next: "#snext"
+        },
+        pagination: {
+            el: '.pagination'
+        },
+        data: [{
+            index: 1,
+            href: 'javascript:void(0)',
+            src: 'static/img/swiper/t1.jpg'
+        }, {
+            index: 2,
+            href: '#',
+            src: 'static/img/swiper/t2.jpg'
+        }, {
+            index: 3,
+            href: 'javascript:void(0)',
+            src: 'static/img/swiper/t3.jpg'
+        }, {
+            index: 4,
+            href: 'javascript:void(0)',
+            src: 'static/img/swiper/t4.jpg'
+        }]
+    });
+</script>
