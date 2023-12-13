@@ -15,7 +15,7 @@ categories: 流媒体
     <img src="{{'/small/LiveStreamPublisher.jpg' | prepend: site.imgrepo }}" alt="多路推流软件" />
 </a>
 
-**主要功能：**
+## 主要功能
 
 - 实现拉取rtmp、rtsp、srt、hls、hdl视频流后再通过rtmp、srt协议推流到其他流媒体服务器。 
 - 实现对推流任务的管理、调度。 
@@ -34,7 +34,18 @@ categories: 流媒体
     <img src="{{'/small/LiveStreamPublisher-Remote.jpg' | prepend: site.imgrepo }}" alt="多路推流软件远程控制 Web 页面" />
 </a>
 
----
+
+## 产品选择
+
+- **未注册** － 只能添加一条推流任务，不支持Web远程管理。
+- **标准版** － 不支持Web远程管理。
+- **增强版** － 全部功能（需要联系作者获取此功能）。
+
+## 软件下载
+
+<a href="javascript:alert('请联系作者！');">标准版</a> \| <a href="javascript:alert('请联系作者！');">增强版</a> 
+
+## 软件说明书
 
 [多路推流软件说明书](/docs/live-stream-publisher-help)
 
