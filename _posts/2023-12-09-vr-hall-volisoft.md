@@ -15,16 +15,22 @@ categories: VR
 
 
 `效果图1：`<br/>
-![效果图1][飞翔软件VR虚拟现实展厅-图1]
+<a data-fancybox="gallery" href="{{'/vr-hall-volisoft-1.png' | prepend: site.imgrepo }}">
+  <img src="{{'/vr-hall-volisoft-1.png' | prepend: site.imgrepo }}" />
+</a>
 
 `效果图2：`<br/>
-![效果图2][飞翔软件VR虚拟现实展厅-图2]
+<a data-fancybox="gallery" href="{{'/vr-hall-volisoft-2.png' | prepend: site.imgrepo }}">
+  <img src="{{'/vr-hall-volisoft-2.png' | prepend: site.imgrepo }}" />
+</a>
 
 `效果图3：`<br/>
-![效果图3][飞翔软件VR虚拟现实展厅-图3]
+<a data-fancybox="gallery" href="[飞翔软件VR虚拟现实展厅-图3]">
+  <img src="[飞翔软件VR虚拟现实展厅-图3]" />
+</a>
 
 ---
 
-[飞翔软件VR虚拟现实展厅-图1]: {{"/vr-hall-volisoft-1.png" | prepend: site.imgrepo }}
-[飞翔软件VR虚拟现实展厅-图2]: {{"/vr-hall-volisoft-2.png" | prepend: site.imgrepo }}
-[飞翔软件VR虚拟现实展厅-图3]: {{"/vr-hall-volisoft-3.png" | prepend: site.imgrepo }}
+[飞翔软件VR虚拟现实展厅-图1]: {{'/vr-hall-volisoft-1.png' | prepend: site.imgrepo }}
+[飞翔软件VR虚拟现实展厅-图2]: {{'/vr-hall-volisoft-2.png' | prepend: site.imgrepo }}
+[飞翔软件VR虚拟现实展厅-图3]: {{'/vr-hall-volisoft-3.png' | prepend: site.imgrepo }}
