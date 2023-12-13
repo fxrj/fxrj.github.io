@@ -16,33 +16,46 @@ categories: 多媒体
 
 `系统架构：`
 
-![多媒体展示系统 系统架构][MediaDisplaySys-1]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-SystemArchitecture.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-SystemArchitecture.png' | prepend: site.imgrepo }}" alt="多媒体展示系统 系统架构" />
+</a>
 
 ## 2、系统构成
 我们的展示系统由后台管理服务端、网络平台、播放客户端和显示终端四部分组成。其中后台管理服务端、播放客户端由我们的软件构成。 后台管理服务端包括播放配置程序、播放控制程序和播放同步程序；播放客户端就是一台安装我们播放软件的小型电脑，分为 Linux 系统和 Windows 系统两类。
 
 `运行图：`
 
-![多媒体展示系统 运行图][MediaDisplaySys-2]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-运行图.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-运行图.png' | prepend: site.imgrepo }}" alt="多媒体展示系统 运行图" />
+</a>
 
 ### 2.1 播放配置程序
 
 对各个播放客户端进行远程监控和管理。能够监视播放客户端当前的工作状态和播放列表，管理所有媒体项，编辑播放列表。
 
 `播放配置程序:`
-![多媒体展示系统 播放配置程序][MediaDisplaySys-3]
+
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlayConfig_Main.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlayConfig_Main.png' | prepend: site.imgrepo }}" alt="多媒体展示系统 播放配置程序" />
+</a>
 
 `媒体项管理：`
 
-![媒体项管理][MediaDisplaySys-3-1]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlayConfig_MediaManager.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlayConfig_MediaManager.png' | prepend: site.imgrepo }}" alt="媒体项管理" />
+</a>
 
 `播放列表管理：`
 
-![播放列表管理][MediaDisplaySys-3-1]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png' | prepend: site.imgrepo }}" alt="播放列表管理" />
+</a>
 
 `编辑播放列表：`
 
-![编辑播放列表][MediaDisplaySys-3-1]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png' | prepend: site.imgrepo }}" alt="编辑播放列表" />
+</a>
 
 ### 2.2 播放控制服务
 
@@ -50,7 +63,9 @@ categories: 多媒体
 
 `播放控制服务：`
 
-![多媒体展示系统 播放控制服务][MediaDisplaySys-4]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlayCtrlSrv_Main.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlayCtrlSrv_Main.png' | prepend: site.imgrepo }}" alt="多媒体展示系统 运行图" />
+</a>
 
 ### 2.3 播放同步服务
 
@@ -58,7 +73,9 @@ categories: 多媒体
 
 `播放同步服务：`
 
-![多媒体展示系统 播放同步服务][MediaDisplaySys-5]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-PlaySyncSrv_Main.png' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-PlaySyncSrv_Main.png' | prepend: site.imgrepo }}" alt="多媒体展示系统 运行图" />
+</a>
 
 ### 2.4 播放器
 
@@ -66,7 +83,9 @@ categories: 多媒体
 
 `RPi 客户端：`
 
-![RPi 客户端][MediaDisplaySys-6]
+<a data-fancybox="gallery" href="{{'/飞翔多媒体展示系统-RPi_Client.jpg' | prepend: site.imgrepo }}">
+    <img src="{{'/飞翔多媒体展示系统-RPi_Client.jpg' | prepend: site.imgrepo }}" alt="RPi 客户端" />
+</a>
 
 ---
 
