@@ -24,24 +24,28 @@ categories: 网络管理
 - 发现异常支持手机消息通知。
 
 `生产业务网的状态监控：`<br/>
-![节目生产网络监控系统-生产业务网的状态监控][MutiRemoteScreen1]
+<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-生产业务网的状态监控.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/节目生产网络监控系统-生产业务网的状态监控.jpg' | prepend: site.imgrepo }}" alt="节目生产网络监控系统-生产业务网的状态监控" />
+</a>
 
 `服务器桌面多屏监控：`<br/>
-![节目生产网络监控系统-服务器桌面多屏监控][MutiRemoteScreen2]
+<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-服务器桌面多屏监控.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/节目生产网络监控系统-服务器桌面多屏监控.jpg' | prepend: site.imgrepo }}" alt="节目生产网络监控系统-服务器桌面多屏监控" />
+</a>
 
 `敦煌制作网任务监看：`<br/>
-![节目生产网络监控系统-敦煌制作网任务监看][MutiRemoteScreen3]
+<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-敦煌制作网任务监看.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/节目生产网络监控系统-敦煌制作网任务监看.jpg' | prepend: site.imgrepo }}" alt="节目生产网络监控系统-敦煌制作网任务监看" />
+</a>
 
 `在手机上查看监控状态：`<br/>
-![节目生产网络监控系统-手机上查看][MutiRemoteScreen4]
+<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-手机上查看.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/节目生产网络监控系统-手机上查看.jpg' | prepend: site.imgrepo }}" alt="节目生产网络监控系统-手机上查看" />
+</a>
 
 ---
 
 [论文《台内节目生产网络监控系统的设计与实现》][论文地址]
 
-[MutiRemoteScreen1]: {{"/节目生产网络监控系统-生产业务网的状态监控.png" | prepend: site.imgrepo }}
-[MutiRemoteScreen2]: {{"/节目生产网络监控系统-服务器桌面多屏监控.png" | prepend: site.imgrepo }}
-[MutiRemoteScreen3]: {{"/节目生产网络监控系统-敦煌制作网任务监看.png" | prepend: site.imgrepo }}
-[MutiRemoteScreen4]: {{"/节目生产网络监控系统-手机上查看.jpg" | prepend: site.imgrepo }}
 
 [论文地址]:https://kns.cnki.net/kcms/detail/detail.aspx?filename=DSZM201901019&dbcode=CJFQ&dbname=CJFD2019&v=nObC302BMhD21XqCtCQ9Stk2bf5wgPBgvJ0kQdhJdu14j5CA2wSagVogRMLoMmDP

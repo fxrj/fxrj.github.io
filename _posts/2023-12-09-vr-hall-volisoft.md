@@ -30,5 +30,3 @@ categories: VR
 <a data-fancybox="gallery" href="{{'/vr-hall-volisoft-3.png' | prepend: site.imgrepo }}">
     <img src="{{'/small/vr-hall-volisoft-3.jpg' | prepend: site.imgrepo }}" alt="飞翔软件VR虚拟现实展厅-图3" />
 </a>
-
----
