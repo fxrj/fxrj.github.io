@@ -18,17 +18,17 @@ categories: VR
 
 `效果图1：`<br/>
 <a data-fancybox="gallery" href="{{'/vr-hall-volisoft-1.png' | prepend: site.imgrepo }}">
-    <img src="{{'/small/vr-hall-volisoft-1.jpg' | prepend: site.imgrepo }}" />
+    <img src="{{'/small/vr-hall-volisoft-1.jpg' | prepend: site.imgrepo }}" alt="飞翔软件VR虚拟现实展厅-图1" />
 </a>
 
 `效果图2：`<br/>
 <a data-fancybox="gallery" href="{{'/vr-hall-volisoft-2.png' | prepend: site.imgrepo }}">
-    <img src="{{'/small/vr-hall-volisoft-2.jpg' | prepend: site.imgrepo }}" />
+    <img src="{{'/small/vr-hall-volisoft-2.jpg' | prepend: site.imgrepo }}" alt="飞翔软件VR虚拟现实展厅-图2" />
 </a>
 
 `效果图3：`<br/>
 <a data-fancybox="gallery" href="{{'/vr-hall-volisoft-3.png' | prepend: site.imgrepo }}">
-    <img src="{{'/small/vr-hall-volisoft-3.jpg' | prepend: site.imgrepo }}" />
+    <img src="{{'/small/vr-hall-volisoft-3.jpg' | prepend: site.imgrepo }}" alt="飞翔软件VR虚拟现实展厅-图3" />
 </a>
 
 ---
