@@ -39,7 +39,7 @@ categories: 网络管理
 </a>
 
 `在手机上查看监控状态：`<br/>
-<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-手机上查看.png' | prepend: site.imgrepo }}">
+<a data-fancybox="gallery" href="{{'/节目生产网络监控系统-手机上查看.jpg' | prepend: site.imgrepo }}">
     <img src="{{'/small/节目生产网络监控系统-手机上查看.jpg' | prepend: site.imgrepo }}" alt="节目生产网络监控系统-手机上查看" />
 </a>
 

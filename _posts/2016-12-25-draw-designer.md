@@ -11,7 +11,9 @@ categories: 抽奖程序
 
 一款设置灵活、操作简单、功能强大的专业电脑抽奖软件开发工具，经历上千次正式抽奖场合的考验，效果良好。适用于各类抽奖场合。
 
-![飞翔电脑抽奖程序设计器主窗口]({{ site.imgrepo }}/飞翔电脑抽奖程序设计器-main2.png)
+<a data-fancybox="gallery" href="{{'/飞翔电脑抽奖程序设计器-main2.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/飞翔电脑抽奖程序设计器-main2.jpg' | prepend: site.imgrepo }}" alt="飞翔电脑抽奖程序设计器主窗口" />
+</a>
 
 **功能特点**
 
