@@ -12,13 +12,19 @@ categories: 办公
 ## 祥云平台
 
 `祥云平台登录页：`<br/>
-![祥云 1.0 beta 20130105]({{ site.imgrepo }}/祥云1.0beta20130105.png)
+<a data-fancybox="gallery" href="{{'/祥云1.0beta20130105.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/祥云1.0beta20130105.jpg' | prepend: site.imgrepo }}" alt="祥云 1.0 beta 20130105" />
+</a>
 
 `祥云平台首页：`<br/>
-![祥云平台首页]({{ site.imgrepo }}/祥云-通讯录1.png)
+<a data-fancybox="gallery" href="{{'/祥云-通讯录1.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/祥云-通讯录1.jpg' | prepend: site.imgrepo }}" alt="祥云平台首页" />
+</a>
 
 `祥云平台 Web 通讯录：`<br/>
-![祥云 Web 通讯录]({{ site.imgrepo }}/祥云-通讯录2.png)
+<a data-fancybox="gallery" href="{{'/祥云-通讯录2.png' | prepend: site.imgrepo }}">
+    <img src="{{'/祥云-通讯录2.png' | prepend: site.imgrepo }}" alt="祥云 Web 通讯录" />
+</a>
 
 **初次运行**
 
@@ -46,10 +52,14 @@ categories: 办公
 10. 支持在线更新软件，永远保持最新状态。
 
 `祥云平台 xContracts 主窗口：`<br/>
-![祥云 xContracts 主窗口]({{ site.imgrepo }}/祥云-xContracts_01.png)
+<a data-fancybox="gallery" href="{{'/祥云-xContracts_01.png' | prepend: site.imgrepo }}">
+    <img src="{{'/祥云-xContracts_01.png' | prepend: site.imgrepo }}" alt="祥云 xContracts 主窗口" />
+</a>
 
 `祥云平台 xContracts 修改联系人窗口：`<br/>
-![祥云 xContracts 修改联系人窗口]({{ site.imgrepo }}/祥云-xContracts_02.png)
+<a data-fancybox="gallery" href="{{'/祥云-xContracts_02.png' | prepend: site.imgrepo }}">
+    <img src="{{'/祥云-xContracts_02.png' | prepend: site.imgrepo }}" alt="祥云 xContracts 修改联系人窗口" />
+</a>
 
 ## 祥云 Tasks
 
@@ -66,4 +76,6 @@ categories: 办公
 7. 在线实时更新软件，永远保持最新状态。
 
 `祥云 Tasks 在 macOS 下运行：`<br/>
-![祥云 Tasks]({{ site.imgrepo }}/xTasks-main.png)
+<a data-fancybox="gallery" href="{{'/xTasks-main.png' | prepend: site.imgrepo }}">
+    <img src="{{'/xTasks-main.png' | prepend: site.imgrepo }}" alt="祥云 Tasks" />
+</a>

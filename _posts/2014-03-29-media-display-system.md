@@ -93,12 +93,3 @@ categories: 多媒体
 
 
 [MediaDisplaySys]: {{"/飞翔多媒体展示系统.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-1]: {{"/飞翔多媒体展示系统-SystemArchitecture.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-2]: {{"/飞翔多媒体展示系统-运行图.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-3]: {{"/飞翔多媒体展示系统-PlayConfig_Main.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-3-1]: {{"/飞翔多媒体展示系统-PlayConfig_MediaManager.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-3-2]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistManager.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-3-3]: {{"/飞翔多媒体展示系统-PlayConfig_PlaylistDetail.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-4]: {{"/飞翔多媒体展示系统-PlayCtrlSrv_Main.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-5]: {{"/飞翔多媒体展示系统-PlaySyncSrv_Main.png" | prepend: site.imgrepo }}
-[MediaDisplaySys-6]: {{"/飞翔多媒体展示系统-RPi_Client.jpg" | prepend: site.imgrepo }}

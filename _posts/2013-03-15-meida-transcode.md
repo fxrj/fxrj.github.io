@@ -19,18 +19,26 @@ categories: 多媒体
 - 所有上传的文件都有详细的日志记录。
 
 `工作原理：`<br/>
-![媒体文件转码上传系统-工作原理图][MediaTranscode1]
+
+<a data-fancybox="gallery" href="{{'/媒体文件转码上传系统-工作原理图.png' | prepend: site.imgrepo }}">
+    <img src="{{'/媒体文件转码上传系统-工作原理图.png' | prepend: site.imgrepo }}" alt="媒体文件转码上传系统-工作原理图" />
+</a>
 
 `客户端主窗口：`<br/>
-![媒体文件转码上传系统-客户端主窗口][MediaTranscode2]
+
+<a data-fancybox="gallery" href="{{'/媒体文件转码上传系统-客户端主窗口2.png' | prepend: site.imgrepo }}">
+    <img src="{{'/媒体文件转码上传系统-客户端主窗口2.png' | prepend: site.imgrepo }}" alt="媒体文件转码上传系统-客户端主窗口" />
+</a>
 
 `Web用户管理：`<br/>
-![媒体文件转码上传系统-Web用户管理][MediaTranscode3]
+
+<a data-fancybox="gallery" href="{{'/媒体文件转码上传系统-Web用户管理.png' | prepend: site.imgrepo }}">
+    <img src="{{'/媒体文件转码上传系统-Web用户管理.png' | prepend: site.imgrepo }}" alt="媒体文件转码上传系统-Web用户管理" />
+</a>
 
 `Web日志管理：`<br/>
-![媒体文件转码上传系统-Web日志管理][MediaTranscode4]
 
-[MediaTranscode1]: {{"/媒体文件转码上传系统-工作原理图.png" | prepend: site.imgrepo }}
-[MediaTranscode2]: {{"/媒体文件转码上传系统-客户端主窗口2.png" | prepend: site.imgrepo }}
-[MediaTranscode3]: {{"/媒体文件转码上传系统-Web用户管理.png" | prepend: site.imgrepo }}
-[MediaTranscode4]: {{"/媒体文件转码上传系统-Web日志管理.png" | prepend: site.imgrepo }}
+<a data-fancybox="gallery" href="{{'/媒体文件转码上传系统-Web日志管理.png' | prepend: site.imgrepo }}">
+    <img src="{{'/媒体文件转码上传系统-Web日志管理.png' | prepend: site.imgrepo }}" alt="媒体文件转码上传系统-Web日志管理" />
+</a>
+
