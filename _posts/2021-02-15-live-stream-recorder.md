@@ -46,7 +46,7 @@ categories: 流媒体
 
 <a href="javascript:alert('请联系作者！');">标准版</a> \| <a href="javascript:alert('请联系作者！');">增强版</a> 
 
----
+## 软件说明书
 
 [视频流录制软件说明书](/docs/live-stream-recorder-help)
 
