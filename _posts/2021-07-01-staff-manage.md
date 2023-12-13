@@ -26,7 +26,9 @@ categories: 办公
 
 通过 *https://[部署服务器IP地址]/hr/admin* 登录后台配置页面。
 
-![人力资源信息管理系统-后台配置]({{ site.imgrepo }}/人力资源信息管理系统-后台配置.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置" />
+</a>
 
 ## 2.1 部门管理
 对部门数据进行管理，可以增加、修改、删除部门。仅支持一级部门结构。注意：根据设计，删除的部门并未从数据库彻底删除，只是做了删除标记不予显示。
@@ -75,24 +77,34 @@ categories: 办公
 
 **例1：查询1996年1月1日之前出生的政治面貌为党员的男员工。**
 
-![人力资源信息管理系统-后台配置-高级查询1]({{ site.imgrepo }}/人力资源信息管理系统-后台配置-高级查询1.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置-高级查询1.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置-高级查询1.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置-高级查询1" />
+</a>
 
 **例2：查询籍贯是郑州或洛阳的，首次参加工作时间在2008年7月1日之后的员工。**
 
-![人力资源信息管理系统-后台配置-高级查询2]({{ site.imgrepo }}/人力资源信息管理系统-后台配置-高级查询2.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置-高级查询2.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置-高级查询2.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置-高级查询2" />
+</a>
 
 **例3：查询已经上传免冠照片的员工。**
 
-![人力资源信息管理系统-后台配置-高级查询3]({{ site.imgrepo }}/人力资源信息管理系统-后台配置-高级查询3.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置-高级查询3.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置-高级查询3.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置-高级查询3" />
+</a>
 
 **例4：查询获奖情况中上传有照片的员工。**
 
-![人力资源信息管理系统-后台配置-高级查询4]({{ site.imgrepo }}/人力资源信息管理系统-后台配置-高级查询4.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置-高级查询4.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置-高级查询4.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置-高级查询4" />
+</a>
 
 ### 2.5.2 导出
 把当前查询结果的内容全部导出到Excel文件或HTML文件。建议导出Excel文件。首次打开导出的Excel文件时，软件会有如下提示：
 
-![人力资源信息管理系统-后台配置-导出]({{ site.imgrepo }}/人力资源信息管理系统-后台配置-导出.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-后台配置-导出.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-后台配置-导出.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-后台配置-导出" />
+</a>
 
 点击“是”打开此文件。打开后，一定要先把文件另存为xlsx或xls类型再进行编辑修改。
 
@@ -104,7 +116,9 @@ categories: 办公
 
 通过 *https://[部署服务器IP地址]* 打开前端页面。前端页面由员工自行填写。
 
-![人力资源信息管理系统-前端-导航]({{ site.imgrepo }}/人力资源信息管理系统-前端-导航.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-前端-导航.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-前端-导航.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-前端-导航" />
+</a>
 
 ## 3.1 改密码
 员工首次登录后，要求必须修改密码，以免个人信息泄露。
@@ -113,7 +127,9 @@ categories: 办公
 不同“人员身份”的员工登录后，显示的登记表是不一样的。根据需要实际情况填写登记表的内容。
 登记表中下拉项数据的定义在在服务器上的staff_data.js文件中。
 
-![人力资源信息管理系统-前端-员工信息登记表]({{ site.imgrepo }}/人力资源信息管理系统-前端-员工信息登记表.png)
+<a data-fancybox="gallery" href="{{'/人力资源信息管理系统-前端-员工信息登记表.png' | prepend: site.imgrepo }}">
+    <img src="{{'/small/人力资源信息管理系统-前端-员工信息登记表.jpg' | prepend: site.imgrepo }}" alt="人力资源信息管理系统-前端-员工信息登记表" />
+</a>
 
 ## 3.3 退出登陆
 点击类似“你好，XXX（正式员工）！”文字中间的姓名，即可退出当前登陆。使用完毕，务必退出登陆，防止个人信息泄露。
